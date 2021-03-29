@@ -1,0 +1,15 @@
+{
+  "name": "checkout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkout.js",
+  "scripts": {
+    "test": "jasmine --config=./jasmine.json"
+  },
+  "author": "Sergiu Ghenciu",
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
